@@ -94,7 +94,7 @@ nav ul li a{
   font-size: 1.6rem;
 }
 nav ul li a:hover{
- color:blue;
+ color:slateblue;
 }
 .contact{
   background-color: rgb(234, 134, 234);
@@ -105,6 +105,7 @@ nav ul li a:hover{
 .detail{
     margin-left: 8%;
     margin-right: 15%;
+    width: 30%;
 
 }
 .detail h1{
@@ -412,3 +413,45 @@ th,td{
   justify-content: center;
 }
 tr:hover {background-color: #eccdf1}
+
+/* Refrences */
+
+.rashmi{
+  padding-left:20rem;
+  padding-bottom: 10px;
+  color: #9400d4;
+}
+.refrences{
+  text-align: center;
+  padding-top: 10rem;
+}
+ .fontawesome{
+  font-size: 1.5rem;
+}
+.womenpicture{
+  font-size: 1.5rem;
+  
+
+}
+
+.wrapper {
+  font-size: 2rem;;  
+	display: flex;
+	/* justify-content: center; */
+	/* align-items: center; */
+}
+
+.centeredBox {
+	width: 80%;
+	padding-top: 2rem;
+}
+
+/* The Typewriter */
+
+#typewriter  {
+	
+}
+
+.cursor {
+	border-left: 4px solid white;
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "homepage": "https://rashmi2200.github.io/Personal-Website",
+  "scripts": {
+    "publish": "gh-pages -d RASHMIPROTFOLIO"
+  }
+}
